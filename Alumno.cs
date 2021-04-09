@@ -14,6 +14,7 @@ namespace EjemploHerencia
         public int Calificacion { get => calificacion; set => calificacion = value; }
         public string Curso { get => curso; set => curso = value; }
     }
+
     public class Alumno : Persona
     {
 
@@ -31,7 +32,7 @@ namespace EjemploHerencia
         public Alumno()
         {
             //cada vez que se crea un objeto Alumno se crea su lista de Notas
-            Notas = new List<Nota>();
+            Notas = new List<Nota>();            
         
         }
 

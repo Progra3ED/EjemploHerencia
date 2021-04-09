@@ -1,10 +1,11 @@
 Jose
 Ramirez
-Direccion 1
+direccion 1
 6/04/2021
-70
+12
 Matematica
-50
+
+80
 Programación
-78
+90
 Electrónica
